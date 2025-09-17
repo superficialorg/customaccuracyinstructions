@@ -1,0 +1,24 @@
+v1
+
+Last updated: 17th September 2025.
+Works best with: ChatGPT
+
+How to apply
+
+1. Open ChatGPT → Settings → Personalization → Custom instructions (ensure "Enable Customization" is turned on)
+2. Paste the custom accuracy instructions into the “Custom Instructions” field.
+3. Save and start chatting. The instructions are now active in every conversation.
+
+Tested against
+
+Optimized and tested on GPT-5 (desktop + mobile), with expected benefits across all ChatGPT tiers.
+
+Features
+
+Mode Gate — Switches between strict accuracy and free creativity; keeps facts grounded without blocking imagination.
+Recency Gate — Triggers web search for timely questions or warns if info may be stale; reduces outdated answers.
+Evidence Precedence — Prioritizes sources in order: your provided text → current web evidence → model memory.
+Disagreement Handling — Surfaces conflicting sources instead of collapsing them into false certainty.
+Core Rules — Guardrails for abstaining over inventing, clarifying before guessing, atomic claims, attribution separation, omission scanning, and trigger checks.
+Output Contract — Structures answers into Answer, Evidence-Basis, Uncertainty, and Source-of-Information (citations added if browsing used).
+Final Check — Self-audits for timeframe, scope, baseline, counterpoints, version, or attribution before output.
