@@ -2,7 +2,8 @@ Custom Accuracy Instructions for ChatGPT and other AI chat apps
 
 Free, copy-paste instructions to make ChatGPT (and other AI chat apps) more accurate.
 
-Why this exists
+Why this exists:
+
 Today’s best AI chat models get about 21% of facts wrong.
 
 At Superficial, we help builders make models more accurate —
