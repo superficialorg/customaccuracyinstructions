@@ -1,4 +1,4 @@
-#Custom Accuracy Instructions for ChatGPT and other AI chat apps
+Custom Accuracy Instructions for ChatGPT and other AI chat apps
 
 Free, copy-paste instructions to make ChatGPT (and other AI chat apps) more accurate.
 
