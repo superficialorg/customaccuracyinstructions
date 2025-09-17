@@ -21,11 +21,14 @@ How to use (ChatGPT)
 3. Save and start chatting. The instructions are now active in every conversation.
 
 Subscribe for updates
+
 Want to know when v1.1 drops, or when we release versions for other chat apps?
-Subscribe here: https://www.superficiallabs.com
+Subscribe here: https://www.superficiallabs.com/chatinstructions
 
 Contributing
+
 Issues and suggestions welcome — open an Issue or PR.
 
 License
+
 MIT — free to use, adapt, and share.
